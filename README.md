@@ -55,7 +55,7 @@ If variable earlier existed, it will be update, else it will be create.
 
 Operator priorities in expressions:
 
-nr | descriptions                                         | sumbols
+nr | descriptions                                         | symbols
 ---|------------------------------------------------------|---------
 1  | subexpression in parentheses                         | ( )
 2  | multiplication, division, modulo and power operators | *, /, %, ^
