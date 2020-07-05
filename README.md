@@ -128,7 +128,7 @@ value = 1
     ```
 
 If after any comma you plane put more than one instruction that place these inside
-'{' and '}' brackets...
+'{' and '}' brackets... 
 You can use additional instructions, '`' who end the loops and '~' who do nothing (
 for example, when you do not want to do anything in a given place but there must
 be a instruction there - conditional or loop)
